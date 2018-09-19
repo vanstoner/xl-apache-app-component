@@ -1,2 +1,2 @@
 # xl-apache-app-component
-Simple html pages
+Simple html pages for testing
